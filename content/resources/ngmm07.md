@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 13761c14-cd54-c879-7760-049ea27fa337
 resourcetype: Document
 title: ngmm07.pdf
 uid: b8a285ca-daa8-2032-72ad-3cbce3ef445f

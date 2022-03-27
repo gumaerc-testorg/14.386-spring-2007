@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 13761c14-cd54-c879-7760-049ea27fa337
 resourcetype: Document
 title: local_lin_reg_ocr.pdf
 uid: c978e7b1-2118-c22d-317d-5dedcbbf2cae
