@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides information on the readings for the lecture sessions,
+  and further reading.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 13761c14-cd54-c879-7760-049ea27fa337
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -27,7 +33,7 @@ Generalized method of moments
 {{< tdopen >}}
 
 
-Newey, Generalized Method of Moments ([PDF]({{< baseurl >}}/resources/ngmm07))
+Newey, Generalized Method of Moments ({{% resource_link b8a285ca-daa8-2032-72ad-3cbce3ef445f "PDF" %}})
 
 Hansen, L. P. "Large Sample Properties of Generalized Method of Moments Estimators." _Econometrica_ 50 (1982): 1029-1054.
 
@@ -50,13 +56,13 @@ Nonparametric estimation
 {{< tdopen >}}
 
 
-Newey, Nonparametric and Semiparametric Estimation ([PDF]({{< baseurl >}}/resources/nonsemi_est_edit))
+Newey, Nonparametric and Semiparametric Estimation ({{% resource_link 4633cb00-240d-478f-1e1b-e500bfddd82f "PDF" %}})
 
 Härdle, W., and O. Linton. "Applied Nonparametric Methods." Chapter 38 in _Handbook of Econometrics_. Vol. 4. Edited by R. F. Engle and D. McFadden. Amsterdam, The Netherlands: Elsevier Science, 1994, pp. 2297-2339. ISBN: 9780444887665.
 
 Hausman, J. A., and W. K. Newey. "Nonparametric Estimation of Exact Consumers Surplus and Deadweight Loss." _Econometrica_ 63, no. 6 (November 1995): 1445-1476.
 
-Newey, Locally Linear Regression ([PDF]({{< baseurl >}}/resources/local_lin_reg_ocr))
+Newey, Locally Linear Regression ({{% resource_link c978e7b1-2118-c22d-317d-5dedcbbf2cae "PDF" %}})
 
 
 {{< tdclose >}}
@@ -69,7 +75,7 @@ Semiparametric estimation
 {{< tdopen >}}
 
 
-Newey, Nonparametric and Semiparametric Estimation ([PDF]({{< baseurl >}}/resources/nonsemi_est_edit))
+Newey, Nonparametric and Semiparametric Estimation ({{% resource_link 4633cb00-240d-478f-1e1b-e500bfddd82f "PDF" %}})
 
 Powell, J. "Estimation of Semiparametric Models." Chapter 41 in _Handbook of Econometrics_. Vol. 4. Edited by R. F. Engle and D. McFadden. Amsterdam, The Netherlands: Elsevier Science, 1994, pp. 2444-2521. ISBN: 9780444887665.
 
@@ -84,7 +90,7 @@ Treatment effects
 {{< tdopen >}}
 
 
-Newey, Treatment Effects ([PDF]({{< baseurl >}}/resources/treatment_effect))
+Newey, Treatment Effects ({{% resource_link 436bcfe7-307f-1a0b-18a2-69ce5c706517 "PDF" %}})
 
 Imbens, G., and J. Angrist. "Identification and Estimation of Local Average Treatment Effects." _Econometrica_ 62, no. 2 (March 1994): 467-475.
 
@@ -105,7 +111,7 @@ Nonlinear models in panel data
 {{< tdopen >}}
 
 
-Newey, Nonlinear Models in Panel Data ([PDF]({{< baseurl >}}/resources/panel_data))
+Newey, Nonlinear Models in Panel Data ({{% resource_link 3bdaa08e-a3d6-7f42-2d78-ba7781f5bd6b "PDF" %}})
 
 Chamberlain, G. "Panel Data." Chapter 22 in _Handbook of Econometrics_. Vol. 2. Edited by Z. Griliches and M. D. Intriligator. Amsterdam, The Netherlands: Elsevier Science, 1984, pp. 1248-1318. ISBN: 9780444861863.
 
