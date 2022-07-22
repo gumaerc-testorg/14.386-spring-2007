@@ -5,6 +5,7 @@ file: /courses/14-386-new-econometric-methods-spring-2007/c978e7b12118c22d317d5d
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on locally linear regression.
-

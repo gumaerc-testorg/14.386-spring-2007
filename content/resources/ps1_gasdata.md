@@ -5,6 +5,7 @@ file: /courses/14-386-new-econometric-methods-spring-2007/ee97e21b48ef0a76f85515
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains Gasoline Data for Problem Set 1.
-
