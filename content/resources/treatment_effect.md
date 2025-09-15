@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes on treatment effects.
-file: /courses/14-386-new-econometric-methods-spring-2007/436bcfe7307f1a0b18a269ce5c706517_treatment_effect.pdf
+file: /ol-ocw-studio-app/courses/14-386-new-econometric-methods-spring-2007/436bcfe7307f1a0b18a269ce5c706517_treatment_effect.pdf
+file_size: 192046
 file_type: application/pdf
 learning_resource_types:
 - Readings

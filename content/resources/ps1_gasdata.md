@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains Gasoline Data for Problem Set 1.
-file: /courses/14-386-new-econometric-methods-spring-2007/ee97e21b48ef0a76f85515084123c4bd_ps1_gasdata.txt
+file: /ol-ocw-studio-app/courses/14-386-new-econometric-methods-spring-2007/ee97e21b48ef0a76f85515084123c4bd_ps1_gasdata.txt
+file_size: 1393918
 file_type: text/plain
 learning_resource_types:
 - Assignments
